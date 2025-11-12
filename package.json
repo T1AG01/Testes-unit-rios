@@ -1,0 +1,23 @@
+{
+  "name": "testes-unit-rios",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --civerage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T1AG01/Testes-unit-rios.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T1AG01/Testes-unit-rios/issues"
+  },
+  "homepage": "https://github.com/T1AG01/Testes-unit-rios#readme",
+  "dependencies": {
+    "jest": "^30.2.0"
+  }
+}
